@@ -1,7 +1,7 @@
 # miniprusa MC3 
 ## FDM/FFF 3D printer project
 
-Heavy Duty, small factor, cartesian (bedslinger) machine capable of printing high detail FDM prints. Project is loosely based on Bearmod project for Prusa i3.
+Heavy Duty, small factor, cartesian (bedslinger) machine capable of printing high detail plastic prints (PLA, PETG, TPU and possibly ABS, ASA, other high-temp materials). Project is loosely based on Bearmod project for Prusa i3. Utilizes out-of-the-shelf components and 3d prints.
 
 Fusion360 model: https://a360.co/3Ne5RhL
 
