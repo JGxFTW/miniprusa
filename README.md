@@ -7,7 +7,7 @@ Fusion360 model: https://a360.co/3Ne5RhL
 
 ![miniprusa render](Renders/miniprusa-all-v1-izo.png)
 
-<iframe src="https://myhub.autodesk360.com/ue2b19d70/shares/public/SH9285eQTcf875d3c5397a93f14336cc3308?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Features
 
 - ~100x100x110 [mm] build volume
