@@ -62,7 +62,7 @@ Summary:
 ## Firmware changes
 
 
-Marlin 2.0.9.1 (v1), but 2.0.9.3 is being currently tested (v1.1).
+Marlin 2.0.9.1 (v1.1) binary included - compiled for Ramps 1.4 and [miniOLED].
 
 
 ## Development
@@ -97,3 +97,4 @@ GPLv3
    [Reprap Forum thread]:<https://reprap.org/forum/read.php?13,499572,page=1>
    [Forum thread]: <https://reprapy.pl/viewtopic.php?f=78&t=7788&hilit=ma%C5%82a+czarna#p127598>
    [OLED Controller with encoder]: <https://github.com/jgxftw/minioled>
+   [miniOLED]: <https://github.com/jgxftw/minioled>
