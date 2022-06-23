@@ -5,7 +5,7 @@ Heavy Duty, small factor, cartesian (bedslinger) machine capable of printing hig
 
 Fusion360 model: https://a360.co/3Ne5RhL
 
-![miniprusa render](Renders/miniprusa-all-v1-izo.png)
+![miniprusa render](Renders/miniprusa-v1-render_2022-Jun-1.png)
 
 
 ## Features
@@ -19,9 +19,10 @@ Fusion360 model: https://a360.co/3Ne5RhL
 - [Marlin] 2.0.9.1 with auto bed leveling
 - Custom ergonomic controller with OLED and encoder
 
-![miniprusa render](Renders/miniprusa-all-v1-front.png)
-![miniprusa render](Renders/miniprusa-all-v1-back.png)
-![miniprusa render](Renders/miniprusa-all-v1-left.png)
+![miniprusa render](Renders/miniprusa-v1-render_2022-Jun-4-front.png)
+![miniprusa render](Renders/miniprusa-v1-render_2022-Jun-3-side.png)
+![miniprusa render](Renders/miniprusa-v1-render_2022-Jun-2-top.png)
+![miniprusa render](Renders/miniprusa-v1-render_2022-Jun-5-izo.png)
 
 ## Technical details
 
